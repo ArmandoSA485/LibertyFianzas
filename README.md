@@ -1,4 +1,4 @@
-# LibertyFinanzas
+# LibertyFianzas
 
 @autor Jose Armando Sanchez Jimenez
  API REST USUARIOS
